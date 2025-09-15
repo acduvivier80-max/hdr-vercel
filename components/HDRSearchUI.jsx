@@ -207,7 +207,7 @@ ${advertisers
       <div style={wrap}>
         <header style={{ display: "flex", justifyContent: "space-between", marginBottom: 16 }}>
           <h1 style={{ fontSize: 22, fontWeight: 600 }}>
-            HDR · Recherche commerciale
+            Hestia · Recherche commerciale
           </h1>
           <div style={{ display: "flex", gap: 8 }}>
             <button style={btnGhost}>Aide</button>
