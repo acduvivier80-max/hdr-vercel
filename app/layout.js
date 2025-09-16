@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "HDR · Recherche commerciale",
-  description: "Interface Customer Success – recherche commerciale HDR"
+  title: "HESTIA · Recherche commerciale",
+  description: "Interface HESTIA – recherche commerciale"
 };
 
 export default function RootLayout({ children }) {
